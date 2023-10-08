@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @patzsl
+- 👀 I’m interested in C, CPP, Angular, Nx, PostgreSQL, Nest.js
+- 🌱 I’m currently learning Nest.js, PostgreSQL, C and CPP
