@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @patzsl
+- 🚀 Explore my journey in programming with my previous account: [@nixoff](https://github.com/nixoff)
 - 👀 I’m interested in C, CPP, Angular, Nx, PostgreSQL, Nest.js
 - 🌱 I’m currently learning Nest.js, PostgreSQL, C and CPP
